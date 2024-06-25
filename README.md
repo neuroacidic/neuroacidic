@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Parth Trivedi from Lucknow, India. I'm a Cybersec Researcher <br><br>- 🔭 Finding bug since 2023<br>- 📚 I'm currently preparing for my OSCP certification<br>- ⚡ In my free time I solve labs on THM</p>
+<h5 align="left">I'm Parth Trivedi from Lucknow, India. I'm a Cybersec Researcher <br>- 🔭 Finding bug since 2023<br>- 📚 I'm currently preparing for my OSCP certification<br>- ⚡ In my free time I solve labs on THM</h5>
 
 ###
 
@@ -80,19 +80,16 @@
 
 ###
 
+<h1 align="center">Skills 🔥</h1>
+
+###
+
 <h3 align="center">Security Research, Security Intelligence, Information Risk, OSINT, Information Security, Computer Network Operations, Cisco Networking, OWASP Top 10, Web Application Security, Digital forensics, Penetration Testing, Linux/Unix, Shell Scripting, VMware, OWASP Zap and Burpsuite, wireshark, Routing and Switching</h3>
 
 ###
 
-<img src="https://raw.githubusercontent.com/neuroacidic/neuroacidic/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left"></h3>
-
-###
-
 <div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png"  />
 </div>
 
 ###
