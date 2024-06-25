@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkzMTUwMzksIm5iZiI6MTcxOTMxNDczOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI1VDExMjUzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyN2M0ZjQ5MWE3NjlkZTljN2E4ZDFkNzI0ODY5YzljY2M4MWMxYTI5ZGRjNTA1ZjMzYWViZmI1MDQzZTQ0YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3U0AvfR_tPB-IvPtm2Qd9odJMue8Ibqe04M5H9SJA6M"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
 ###
@@ -24,15 +24,11 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="left">Hello there 👋</h1>
 
 ###
 
 <h5 align="left">I'm Parth Trivedi from Lucknow, India. I'm a Cybersec Researcher <br>- 🔭 Finding bug since 2023<br>- 📚 I'm currently preparing for my OSCP certification<br>- ⚡ In my free time I solve labs on THM</h5>
-
-###
-
-<h3 align="center">👩‍💻  Certifications<br>CCNA, CEHv12,<br>210W-04 Cybersecurity within IT and ICS Domains</h3>
 
 ###
 
@@ -80,7 +76,15 @@
 
 ###
 
-<h1 align="center">Skills 🔥</h1>
+<h1 align="left">👩‍💻  Certifications</h1>
+
+###
+
+<h4 align="left">CCNA<br>CEHv12<br>210W-04 Cybersecurity within IT and ICS Domains</h4>
+
+###
+
+<h1 align="left">Skills 🔥</h1>
 
 ###
 
