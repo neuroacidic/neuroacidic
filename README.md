@@ -91,9 +91,3 @@
 <h3 align="center">Security Research, Security Intelligence, Information Risk, OSINT, Information Security, Computer Network Operations, Cisco Networking, OWASP Top 10, Web Application Security, Digital forensics, Penetration Testing, Linux/Unix, Shell Scripting, VMware, OWASP Zap and Burpsuite, wireshark, Routing and Switching</h3>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png"  />
-</div>
-
-###
