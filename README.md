@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=neuroacidic.neuroacidic&left_text=Hackers"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=neuroacidic.neuroacidic&left_text=Visitors"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="left">CCNA<br>CEHv12<br>210W-04 Cybersecurity within IT and ICS Domains</h4>
+<h4 align="left">CCNA<br>CEHv12<br>210W-04 Cybersecurity within IT and ICS Domains<br>Foundations of Cybersecurity by Google<br>Security Engineer by Tryhackme<br>Junior Penetration Tester by Tryhackme<br>Ethical Hacking by IIT Delhi </h4>
 
 ###
 
